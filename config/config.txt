@@ -1,0 +1,13 @@
+K=10
+K_start=1
+C=10
+E=3
+P=25
+S1=1
+S2=6
+T=200
+T_product=20
+I=4000
+S=250
+LOG_FILE=file_out.log
+
